@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP screen_128x64
+D 128 by 64 pixel LCD screen through hole header connection
+$ENDCMP
+#
+#End Doc Library

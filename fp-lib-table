@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name cherry_switches)(type KiCad)(uri ${KIPRJMOD}/cherry_switches.pretty)(options "")(descr ""))
+)

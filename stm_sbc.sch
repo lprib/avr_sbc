@@ -1,0 +1,158 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MCU_Microchip_ATmega:ATmega328-PU U1
+U 1 1 605AB074
+P 2600 3800
+F 0 "U1" H 1956 3846 50  0000 R CNN
+F 1 "ATmega328-PU" H 1956 3755 50  0000 R CNN
+F 2 "Package_DIP:DIP-28_W7.62mm" H 2600 3800 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf" H 2600 3800 50  0001 C CNN
+	1    2600 3800
+	1    0    0    -1  
+$EndComp
+$Sheet
+S 8400 2550 1600 2200
+U 605B7C30
+F0 "Keyboard" 50
+F1 "keyboard.sch" 50
+F2 "KBD_COL_1" I L 8400 2650 50 
+F3 "KBD_COL_2" I L 8400 2750 50 
+F4 "KBD_COL_3" I L 8400 2850 50 
+F5 "KBD_COL_4" I L 8400 2950 50 
+F6 "KBD_COL_5" I L 8400 3050 50 
+F7 "KBD_FN_KEY" I L 8400 3300 50 
+F8 "LED_SHIFT_CLK" I L 8400 3600 50 
+F9 "LED_SHIFT_LATCH" I L 8400 3700 50 
+F10 "LED_SHIFT_OE" I L 8400 3800 50 
+F11 "LED_SHIFT_DATA" I L 8400 3500 50 
+F12 "KBD_SHIFT_DATA" I L 8400 4050 50 
+F13 "KBD_SHIFT_CLK" I L 8400 4150 50 
+F14 "KBD_SHIFT_LATCH" I L 8400 4250 50 
+F15 "KBD_SHIFT_OE" I L 8400 4350 50 
+$EndSheet
+Text Notes 5550 2400 0    50   ~ 0
+MMI MCU
+Wire Wire Line
+	7450 3300 8400 3300
+Wire Wire Line
+	6650 3650 7550 3650
+Wire Wire Line
+	7550 3650 7550 3500
+Wire Wire Line
+	7550 3500 8400 3500
+Wire Wire Line
+	7450 3550 7450 3300
+Wire Wire Line
+	6650 3550 7450 3550
+Wire Wire Line
+	7650 3600 8400 3600
+Wire Wire Line
+	7750 3850 7750 3700
+Wire Wire Line
+	7750 3700 8400 3700
+Wire Wire Line
+	6650 4550 7850 4550
+Wire Wire Line
+	7850 4550 7850 3800
+Wire Wire Line
+	7850 3800 8400 3800
+Wire Wire Line
+	6650 4650 7950 4650
+Wire Wire Line
+	7950 4650 7950 4050
+Wire Wire Line
+	7950 4050 8400 4050
+Wire Wire Line
+	6650 4850 8050 4850
+Wire Wire Line
+	8050 4850 8050 4150
+Wire Wire Line
+	8050 4150 8400 4150
+Wire Wire Line
+	6650 4950 8150 4950
+Wire Wire Line
+	8150 4950 8150 4250
+Wire Wire Line
+	8150 4250 8400 4250
+Wire Wire Line
+	6650 5050 8250 5050
+Wire Wire Line
+	8250 5050 8250 4350
+Wire Wire Line
+	8250 4350 8400 4350
+Text Label 6650 3250 0    50   ~ 0
+MMI_XTAL1
+Text Label 6650 3350 0    50   ~ 0
+MMI_XTAL2
+Text Label 6650 4350 0    50   ~ 0
+MMI_USART_RXD
+Text Label 6650 4450 0    50   ~ 0
+MMI_USART_TXD
+Text Label 6650 4750 0    50   ~ 0
+MMI_USART_CLK
+$Comp
+L MCU_Microchip_ATmega:ATmega328-PU U2
+U 1 1 605AA06A
+P 6050 3850
+F 0 "U2" H 5406 3896 50  0000 R CNN
+F 1 "ATmega328-PU" H 5406 3805 50  0000 R CNN
+F 2 "Package_DIP:DIP-28_W7.62mm" H 6050 3850 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf" H 6050 3850 50  0001 C CNN
+	1    6050 3850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6650 3850 7750 3850
+Text Label 6650 2950 0    50   ~ 0
+MMI_ICSP_MOSI
+Text Label 6650 3050 0    50   ~ 0
+MMI_ICSP_MISO
+Text Label 6650 3150 0    50   ~ 0
+MMI_ICSP_SCK
+Wire Wire Line
+	6650 2650 8400 2650
+Wire Wire Line
+	6650 2750 8400 2750
+Wire Wire Line
+	6650 2850 8400 2850
+Wire Wire Line
+	6650 3950 7250 3950
+Wire Wire Line
+	7250 3950 7250 2950
+Wire Wire Line
+	7250 2950 8400 2950
+Wire Wire Line
+	7650 3750 7650 3600
+Wire Wire Line
+	6650 3750 7650 3750
+Wire Wire Line
+	6650 4050 7350 4050
+Wire Wire Line
+	7350 4050 7350 3050
+Wire Wire Line
+	7350 3050 8400 3050
+Text Label 6650 4150 0    50   ~ 0
+MMI_RESET
+Text Label 3200 4300 0    50   ~ 0
+MMI_USART_TXD
+Text Label 3200 4400 0    50   ~ 0
+MMI_USART_RXD
+Text Label 3200 4700 0    50   ~ 0
+MMI_USART_CLK
+Text Notes 2100 2350 0    50   ~ 0
+MAIN MCU
+$EndSCHEMATC
