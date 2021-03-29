@@ -1829,9 +1829,11 @@ Wire Wire Line
 Wire Wire Line
 	9550 3750 10650 3750
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW1
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW1
 U 1 1 61D639A1
 P 1300 600
+AR Path="/61D639A1" Ref="SW1"  Part="1" 
+AR Path="/605B7C30/61D639A1" Ref="SW1"  Part="1" 
 F 0 "SW1" H 1300 550 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 1450 150 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 1350 100 50  0001 C CNN
@@ -1840,9 +1842,11 @@ F 3 "" H 1300 600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW6
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW6
 U 1 1 61D73D5E
 P 1300 1300
+AR Path="/61D73D5E" Ref="SW6"  Part="1" 
+AR Path="/605B7C30/61D73D5E" Ref="SW6"  Part="1" 
 F 0 "SW6" H 1300 1250 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 1450 850 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 1350 800 50  0001 C CNN
@@ -1851,9 +1855,11 @@ F 3 "" H 1300 1300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW11
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW11
 U 1 1 61D76CBB
 P 1300 2000
+AR Path="/61D76CBB" Ref="SW11"  Part="1" 
+AR Path="/605B7C30/61D76CBB" Ref="SW11"  Part="1" 
 F 0 "SW11" H 1300 1950 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 1450 1550 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 1350 1500 50  0001 C CNN
@@ -1862,9 +1868,11 @@ F 3 "" H 1300 2000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW16
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW16
 U 1 1 61D7769B
 P 1300 2700
+AR Path="/61D7769B" Ref="SW16"  Part="1" 
+AR Path="/605B7C30/61D7769B" Ref="SW16"  Part="1" 
 F 0 "SW16" H 1300 2650 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 1450 2250 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 1350 2200 50  0001 C CNN
@@ -1873,9 +1881,11 @@ F 3 "" H 1300 2700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW21
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW21
 U 1 1 61D7B9F2
 P 1300 3400
+AR Path="/61D7B9F2" Ref="SW21"  Part="1" 
+AR Path="/605B7C30/61D7B9F2" Ref="SW21"  Part="1" 
 F 0 "SW21" H 1300 3350 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 1450 2950 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 1350 2900 50  0001 C CNN
@@ -1886,9 +1896,11 @@ $EndComp
 Wire Wire Line
 	1600 4400 2000 4400
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW26
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW26
 U 1 1 61D7EFA2
 P 1300 4100
+AR Path="/61D7EFA2" Ref="SW26"  Part="1" 
+AR Path="/605B7C30/61D7EFA2" Ref="SW26"  Part="1" 
 F 0 "SW26" H 1300 4050 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 1450 3650 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 1350 3600 50  0001 C CNN
@@ -1897,9 +1909,11 @@ F 3 "" H 1300 4100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW31
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW31
 U 1 1 61D86391
 P 1300 4800
+AR Path="/61D86391" Ref="SW31"  Part="1" 
+AR Path="/605B7C30/61D86391" Ref="SW31"  Part="1" 
 F 0 "SW31" H 1300 4750 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 1450 4350 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 1350 4300 50  0001 C CNN
@@ -1908,9 +1922,11 @@ F 3 "" H 1300 4800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW36
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW36
 U 1 1 61DA9FC1
 P 1300 5500
+AR Path="/61DA9FC1" Ref="SW36"  Part="1" 
+AR Path="/605B7C30/61DA9FC1" Ref="SW36"  Part="1" 
 F 0 "SW36" H 1300 5450 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 1450 5050 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 1350 5000 50  0001 C CNN
@@ -1919,9 +1935,11 @@ F 3 "" H 1300 5500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW37
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW37
 U 1 1 61DCFA71
 P 2500 5500
+AR Path="/61DCFA71" Ref="SW37"  Part="1" 
+AR Path="/605B7C30/61DCFA71" Ref="SW37"  Part="1" 
 F 0 "SW37" H 2500 5450 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 2650 5050 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 2550 5000 50  0001 C CNN
@@ -1930,9 +1948,11 @@ F 3 "" H 2500 5500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW32
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW32
 U 1 1 61DF5C4E
 P 2500 4800
+AR Path="/61DF5C4E" Ref="SW32"  Part="1" 
+AR Path="/605B7C30/61DF5C4E" Ref="SW32"  Part="1" 
 F 0 "SW32" H 2500 4750 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 2650 4350 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 2550 4300 50  0001 C CNN
@@ -1941,9 +1961,11 @@ F 3 "" H 2500 4800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW27
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW27
 U 1 1 61E19E1F
 P 2500 4100
+AR Path="/61E19E1F" Ref="SW27"  Part="1" 
+AR Path="/605B7C30/61E19E1F" Ref="SW27"  Part="1" 
 F 0 "SW27" H 2500 4050 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 2650 3650 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 2550 3600 50  0001 C CNN
@@ -1952,9 +1974,11 @@ F 3 "" H 2500 4100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW22
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW22
 U 1 1 61E405E3
 P 2500 3400
+AR Path="/61E405E3" Ref="SW22"  Part="1" 
+AR Path="/605B7C30/61E405E3" Ref="SW22"  Part="1" 
 F 0 "SW22" H 2500 3350 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 2650 2950 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 2550 2900 50  0001 C CNN
@@ -1963,9 +1987,11 @@ F 3 "" H 2500 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW17
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW17
 U 1 1 61E6447F
 P 2500 2700
+AR Path="/61E6447F" Ref="SW17"  Part="1" 
+AR Path="/605B7C30/61E6447F" Ref="SW17"  Part="1" 
 F 0 "SW17" H 2500 2650 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 2650 2250 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 2550 2200 50  0001 C CNN
@@ -1974,9 +2000,11 @@ F 3 "" H 2500 2700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW12
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW12
 U 1 1 61E8AF87
 P 2500 2000
+AR Path="/61E8AF87" Ref="SW12"  Part="1" 
+AR Path="/605B7C30/61E8AF87" Ref="SW12"  Part="1" 
 F 0 "SW12" H 2500 1950 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 2650 1550 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 2550 1500 50  0001 C CNN
@@ -1985,9 +2013,11 @@ F 3 "" H 2500 2000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW7
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW7
 U 1 1 61EB0E9F
 P 2500 1300
+AR Path="/61EB0E9F" Ref="SW7"  Part="1" 
+AR Path="/605B7C30/61EB0E9F" Ref="SW7"  Part="1" 
 F 0 "SW7" H 2500 1250 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 2650 850 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 2550 800 50  0001 C CNN
@@ -1996,9 +2026,11 @@ F 3 "" H 2500 1300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW2
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW2
 U 1 1 61ED6003
 P 2500 600
+AR Path="/61ED6003" Ref="SW2"  Part="1" 
+AR Path="/605B7C30/61ED6003" Ref="SW2"  Part="1" 
 F 0 "SW2" H 2500 550 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 2650 150 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 2550 100 50  0001 C CNN
@@ -2007,9 +2039,11 @@ F 3 "" H 2500 600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW3
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW3
 U 1 1 61F1CD45
 P 3700 600
+AR Path="/61F1CD45" Ref="SW3"  Part="1" 
+AR Path="/605B7C30/61F1CD45" Ref="SW3"  Part="1" 
 F 0 "SW3" H 3700 550 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 3850 150 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 3750 100 50  0001 C CNN
@@ -2018,9 +2052,11 @@ F 3 "" H 3700 600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW8
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW8
 U 1 1 61F4096C
 P 3700 1300
+AR Path="/61F4096C" Ref="SW8"  Part="1" 
+AR Path="/605B7C30/61F4096C" Ref="SW8"  Part="1" 
 F 0 "SW8" H 3700 1250 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 3850 850 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 3750 800 50  0001 C CNN
@@ -2029,9 +2065,11 @@ F 3 "" H 3700 1300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW13
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW13
 U 1 1 61F64562
 P 3700 2000
+AR Path="/61F64562" Ref="SW13"  Part="1" 
+AR Path="/605B7C30/61F64562" Ref="SW13"  Part="1" 
 F 0 "SW13" H 3700 1950 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 3850 1550 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 3750 1500 50  0001 C CNN
@@ -2040,9 +2078,11 @@ F 3 "" H 3700 2000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW18
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW18
 U 1 1 61F8C0D1
 P 3700 2700
+AR Path="/61F8C0D1" Ref="SW18"  Part="1" 
+AR Path="/605B7C30/61F8C0D1" Ref="SW18"  Part="1" 
 F 0 "SW18" H 3700 2650 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 3850 2250 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 3750 2200 50  0001 C CNN
@@ -2051,9 +2091,11 @@ F 3 "" H 3700 2700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW23
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW23
 U 1 1 61FAFF2E
 P 3700 3400
+AR Path="/61FAFF2E" Ref="SW23"  Part="1" 
+AR Path="/605B7C30/61FAFF2E" Ref="SW23"  Part="1" 
 F 0 "SW23" H 3700 3350 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 3850 2950 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 3750 2900 50  0001 C CNN
@@ -2062,9 +2104,11 @@ F 3 "" H 3700 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW28
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW28
 U 1 1 61FFC6C3
 P 3700 4100
+AR Path="/61FFC6C3" Ref="SW28"  Part="1" 
+AR Path="/605B7C30/61FFC6C3" Ref="SW28"  Part="1" 
 F 0 "SW28" H 3700 4050 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 3850 3650 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 3750 3600 50  0001 C CNN
@@ -2073,9 +2117,11 @@ F 3 "" H 3700 4100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW33
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW33
 U 1 1 62020792
 P 3700 4800
+AR Path="/62020792" Ref="SW33"  Part="1" 
+AR Path="/605B7C30/62020792" Ref="SW33"  Part="1" 
 F 0 "SW33" H 3700 4750 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 3850 4350 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 3750 4300 50  0001 C CNN
@@ -2084,9 +2130,11 @@ F 3 "" H 3700 4800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW38
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW38
 U 1 1 62044538
 P 3700 5500
+AR Path="/62044538" Ref="SW38"  Part="1" 
+AR Path="/605B7C30/62044538" Ref="SW38"  Part="1" 
 F 0 "SW38" H 3700 5450 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 3850 5050 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 3750 5000 50  0001 C CNN
@@ -2095,9 +2143,11 @@ F 3 "" H 3700 5500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW39
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW39
 U 1 1 6206993C
 P 4900 5500
+AR Path="/6206993C" Ref="SW39"  Part="1" 
+AR Path="/605B7C30/6206993C" Ref="SW39"  Part="1" 
 F 0 "SW39" H 4900 5450 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 5050 5050 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 4950 5000 50  0001 C CNN
@@ -2106,9 +2156,11 @@ F 3 "" H 4900 5500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW34
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW34
 U 1 1 6208D600
 P 4900 4800
+AR Path="/6208D600" Ref="SW34"  Part="1" 
+AR Path="/605B7C30/6208D600" Ref="SW34"  Part="1" 
 F 0 "SW34" H 4900 4750 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 5050 4350 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 4950 4300 50  0001 C CNN
@@ -2117,9 +2169,11 @@ F 3 "" H 4900 4800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW29
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW29
 U 1 1 620B14AA
 P 4900 4100
+AR Path="/620B14AA" Ref="SW29"  Part="1" 
+AR Path="/605B7C30/620B14AA" Ref="SW29"  Part="1" 
 F 0 "SW29" H 4900 4050 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 5050 3650 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 4950 3600 50  0001 C CNN
@@ -2128,9 +2182,11 @@ F 3 "" H 4900 4100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW24
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW24
 U 1 1 620D7BC6
 P 4900 3400
+AR Path="/620D7BC6" Ref="SW24"  Part="1" 
+AR Path="/605B7C30/620D7BC6" Ref="SW24"  Part="1" 
 F 0 "SW24" H 4900 3350 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 5050 2950 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 4950 2900 50  0001 C CNN
@@ -2139,9 +2195,11 @@ F 3 "" H 4900 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW19
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW19
 U 1 1 620FBA94
 P 4900 2700
+AR Path="/620FBA94" Ref="SW19"  Part="1" 
+AR Path="/605B7C30/620FBA94" Ref="SW19"  Part="1" 
 F 0 "SW19" H 4900 2650 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 5050 2250 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 4950 2200 50  0001 C CNN
@@ -2150,9 +2208,11 @@ F 3 "" H 4900 2700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW14
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW14
 U 1 1 6212250B
 P 4900 2000
+AR Path="/6212250B" Ref="SW14"  Part="1" 
+AR Path="/605B7C30/6212250B" Ref="SW14"  Part="1" 
 F 0 "SW14" H 4900 1950 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 5050 1550 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 4950 1500 50  0001 C CNN
@@ -2161,9 +2221,11 @@ F 3 "" H 4900 2000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW9
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW9
 U 1 1 62146525
 P 4900 1300
+AR Path="/62146525" Ref="SW9"  Part="1" 
+AR Path="/605B7C30/62146525" Ref="SW9"  Part="1" 
 F 0 "SW9" H 4900 1250 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 5050 850 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 4950 800 50  0001 C CNN
@@ -2172,9 +2234,11 @@ F 3 "" H 4900 1300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW4
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW4
 U 1 1 6216CCA4
 P 4900 600
+AR Path="/6216CCA4" Ref="SW4"  Part="1" 
+AR Path="/605B7C30/6216CCA4" Ref="SW4"  Part="1" 
 F 0 "SW4" H 4900 550 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 5050 150 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 4950 100 50  0001 C CNN
@@ -2183,9 +2247,11 @@ F 3 "" H 4900 600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW5
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW5
 U 1 1 621923A2
 P 6100 600
+AR Path="/621923A2" Ref="SW5"  Part="1" 
+AR Path="/605B7C30/621923A2" Ref="SW5"  Part="1" 
 F 0 "SW5" H 6100 550 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 6250 150 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 6150 100 50  0001 C CNN
@@ -2194,9 +2260,11 @@ F 3 "" H 6100 600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW10
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW10
 U 1 1 621B5F04
 P 6100 1300
+AR Path="/621B5F04" Ref="SW10"  Part="1" 
+AR Path="/605B7C30/621B5F04" Ref="SW10"  Part="1" 
 F 0 "SW10" H 6100 1250 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 6250 850 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 6150 800 50  0001 C CNN
@@ -2205,9 +2273,11 @@ F 3 "" H 6100 1300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW15
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW15
 U 1 1 621D9D00
 P 6100 2000
+AR Path="/621D9D00" Ref="SW15"  Part="1" 
+AR Path="/605B7C30/621D9D00" Ref="SW15"  Part="1" 
 F 0 "SW15" H 6100 1950 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 6250 1550 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 6150 1500 50  0001 C CNN
@@ -2216,9 +2286,11 @@ F 3 "" H 6100 2000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW20
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW20
 U 1 1 62201249
 P 6100 2700
+AR Path="/62201249" Ref="SW20"  Part="1" 
+AR Path="/605B7C30/62201249" Ref="SW20"  Part="1" 
 F 0 "SW20" H 6100 2650 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 6250 2250 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 6150 2200 50  0001 C CNN
@@ -2227,9 +2299,11 @@ F 3 "" H 6100 2700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW25
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW25
 U 1 1 62224F46
 P 6100 3400
+AR Path="/62224F46" Ref="SW25"  Part="1" 
+AR Path="/605B7C30/62224F46" Ref="SW25"  Part="1" 
 F 0 "SW25" H 6100 3350 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 6250 2950 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 6150 2900 50  0001 C CNN
@@ -2238,9 +2312,11 @@ F 3 "" H 6100 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW30
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW30
 U 1 1 62248C3F
 P 6100 4100
+AR Path="/62248C3F" Ref="SW30"  Part="1" 
+AR Path="/605B7C30/62248C3F" Ref="SW30"  Part="1" 
 F 0 "SW30" H 6100 4050 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 6250 3650 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 6150 3600 50  0001 C CNN
@@ -2249,9 +2325,11 @@ F 3 "" H 6100 4100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW35
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW35
 U 1 1 6226EC8D
 P 6100 4800
+AR Path="/6226EC8D" Ref="SW35"  Part="1" 
+AR Path="/605B7C30/6226EC8D" Ref="SW35"  Part="1" 
 F 0 "SW35" H 6100 4750 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 6250 4350 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 6150 4300 50  0001 C CNN
@@ -2260,9 +2338,11 @@ F 3 "" H 6100 4800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L stm_sbc_symbols:cheery_mx_switch_led SW40
+L avr_sbc-rescue:cheery_mx_switch_led-stm_sbc_symbols SW40
 U 1 1 622B80A3
 P 6100 5500
+AR Path="/622B80A3" Ref="SW40"  Part="1" 
+AR Path="/605B7C30/622B80A3" Ref="SW40"  Part="1" 
 F 0 "SW40" H 6100 5450 50  0000 C CNN
 F 1 "cheery_mx_switch_led" H 6250 5050 50  0000 C CNN
 F 2 "cherry_switches:cherry_mx_switch_with_led" H 6150 5000 50  0001 C CNN
